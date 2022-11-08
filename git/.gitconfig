@@ -1,0 +1,8 @@
+[user]
+	name = Anton Ihonen
+[alias]
+	lg = log --all --graph --decorate --oneline
+	lg1 = log --graph --decorate --oneline
+	st = status -sb
+[core]
+	editor = code --wait
