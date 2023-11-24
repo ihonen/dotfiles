@@ -1,0 +1,28 @@
+{
+    "editor.fontFamily": "'monospace', 'IntelOne Mono', 'Fira Code', 'Droid Sans Mono', 'Source Code Pro', 'YaHei Consolas Hybrid'",
+    "editor.fontLigatures": false,
+    "editor.fontSize": 12.75,
+    "editor.hover.delay": 0,
+    "editor.hover.sticky": false,
+    "editor.letterSpacing": -0.4,
+    "editor.lineHeight": 15.5,
+    "editor.minimap.enabled": false,
+    "editor.minimap.maxColumn": 70,
+    "editor.minimap.renderCharacters": false,
+    "editor.parameterHints.cycle": true,
+    "editor.roundedSelection": false,
+    "editor.scrollBeyondLastLine": false,
+    "editor.stablePeek": true,
+    "editor.rulers": [
+        100
+    ],
+    "files.enableTrash": false,
+    "files.insertFinalNewline": false,
+    "files.trimFinalNewlines": false,
+    "files.trimTrailingWhitespace": false,
+    "git.mergeEditor": false,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.shellIntegration.enabled": true,
+    "window.titleBarStyle": "custom",
+    "window.zoomLevel": -1,
+}
