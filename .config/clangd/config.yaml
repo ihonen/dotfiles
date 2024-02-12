@@ -1,0 +1,16 @@
+CompileFlags:
+  Add: -Wno-unknown-warning-option
+Completion:
+  AllScopes: No
+Hover:
+  ShowAKA: No
+Index:
+  Background: Build
+  StandardLibrary: No
+InlayHints:
+  BlockEnd: No
+  Designators: Yes
+  Enabled: No
+  ParameterNames: Yes
+  DeducedTypes: Yes
+  TypeNameLimit: 24

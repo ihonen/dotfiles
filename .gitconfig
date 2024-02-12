@@ -1,0 +1,12 @@
+[user]
+    name = Anton Ihonen
+[alias]
+    can = commit --amend --no-edit
+    lg = log --all --graph --decorate --oneline --topo-order
+    lg1 = log --graph --decorate --oneline
+    pf = push --force-with-lease
+    st = status --short --branch
+[core]
+    editor = code --wait
+[diff]
+    renames = true
