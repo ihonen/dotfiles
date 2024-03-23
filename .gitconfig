@@ -1,12 +1,17 @@
 [user]
     name = Anton Ihonen
 [alias]
+    a = add
+    c = commit
     can = commit --amend --no-edit
-    lg = log --all --graph --decorate --oneline --topo-order
-    lg1 = log --graph --decorate --oneline
+    d = diff
+    dw = diff -w
+    l = log --all --decorate --graph --oneline --topo-order
+    l1 = log --graph --decorate --oneline
+    m = merge --no-ff
+    p = push
     pf = push --force-with-lease
-    st = status --short --branch
-[core]
-    editor = code --wait
+    s = status --branch --short
+    r = rebase
 [diff]
     renames = true
